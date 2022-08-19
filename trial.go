@@ -1,6 +1,6 @@
 package main
 
-//コメント
+//コメント2
 import (
 	"fmt"
 )

@@ -1,10 +1,11 @@
 package main
 
+//コメント
 import (
 	"fmt"
 )
 
-//値渡しをするone()関数
+// 値渡しをするone()関数
 func one(x int) {
 	x = 1
 }
